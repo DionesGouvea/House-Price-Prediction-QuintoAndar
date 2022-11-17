@@ -17,8 +17,4 @@ Para tanto, existem dois objetivos principais:
 
 O conjunto de dados descreve a venda de propriedades residenciais individuais de uma cidade americana, de 2006 a 2010. O conjunto de dados contém 1460 observações e um grande número de features (23 nominais, 23 ordinais, 14 discretas e 20 contínuas) envolvidas na avaliação do valor dos imóveis, ou seja, são 80 variáveis explicativas.
 
-Geralmente, as 20 features ​​contínuas estão relacionadas com várias dimensões de área para cada imóvel. Além do típico tamanho do lote e da metragem quadrada total da área habitável, outras variáveis ​​mais específicas são quantificadas no conjunto de dados. Medidas da área do porão, área da sala de estar e até mesmo das varandas estão presentes e divididas em categorias individuais com base na qualidade e no tipo. O grande número de variáveis ​​contínuas neste conjunto de dados deve fornecer muitas oportunidades de discretização e construção de novas features.
 
-As 14 features ​​discretas normalmente quantificam o número de itens que existem na casa. Como, por exemplo: o número de cozinhas, quartos e banheiro discretizados por sua localização (porão ou acima do térreo). Adicionalmente, a capacidade da garagem e as datas de construção/reforma também estão registadas.
-
-As features ​​nominais normalmente identificam várias categorias de moradias, garagens, materiais e condições ambientais, enquanto as variáveis ​​ordinais normalmente classificam vários itens na propriedade.
