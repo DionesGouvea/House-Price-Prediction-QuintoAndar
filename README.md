@@ -1,5 +1,5 @@
 
-## **Desafio de Regressão do Quinto Andar em parceria com a Tera**
+## **Desafio de Regressão do QuintoAndar em parceria com a Tera**
 
 ### **Contexto analítico**
 
