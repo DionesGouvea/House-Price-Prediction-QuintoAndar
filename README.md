@@ -11,7 +11,7 @@ A área de marketing do QuintoAndar quer montar uma calculadora de preço (como 
 
 **Base de dados**
 
-O conjunto de dados descreve a venda de propriedades residenciais individuais de uma cidade americana, de 2006 a 2010.
+O conjunto de dados descreve a venda de propriedades residenciais individuais de uma cidade americana, de 2006 a 2010 contendo 80 variáveis.
 
 **Esse desafio foi construído em parceria entre a Tera e o QuintoAndar, onde o objetivo é simular um projeto de machine learning com características semelhantes ao que ocorre no dia a dia da empresa.**
 
