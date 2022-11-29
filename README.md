@@ -17,11 +17,9 @@ A área de marketing do QuintoAndar quer montar uma calculadora de preço (como 
 
 **Objetivo 2**, predição: construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como a calculadora de preço.
 
-**Base de dados**
+### **Resumo do projeto**
+Esse desafio foi construído em parceria entre a Tera e o QuintoAndar, onde o objetivo é simular um projeto de machine learning com características semelhantes ao que ocorre no dia a dia da empresa. O conjunto de dados descreve a venda de propriedades residenciais individuais de uma cidade americana, de 2006 a 2010 contendo 80 variáveis. O modelo de randomForest se mostrou eficiente antes mesmo de uma busca por melhores parâmetros, após aplicarmos os melhores parâmetros e reduzir para apenas as 25 variáveis mais importantes conseguimos um Erro absoluto médio de 14.048 e um MAPE de 8%
 
-O conjunto de dados descreve a venda de propriedades residenciais individuais de uma cidade americana, de 2006 a 2010 contendo 80 variáveis.
-
-**Esse desafio foi construído em parceria entre a Tera e o QuintoAndar, onde o objetivo é simular um projeto de machine learning com características semelhantes ao que ocorre no dia a dia da empresa.**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Palavras-Chave: <em>Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Engeenering Feature; Dummy; RepeatedK-Fold; MAE, GridSearch; Tunagem de Hiperparâmetros; Insigths dos problema.</em>
