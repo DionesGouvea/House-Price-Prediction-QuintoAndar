@@ -24,4 +24,4 @@ O conjunto de dados descreve a venda de propriedades residenciais individuais de
 **Esse desafio foi construído em parceria entre a Tera e o QuintoAndar, onde o objetivo é simular um projeto de machine learning com características semelhantes ao que ocorre no dia a dia da empresa.**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Palavras-Chave: Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Engeenering Feature; Dummy; RepeatedK-Fold; MAE, GridSearch; Tunagem de Hiperparâmetros; Insigths dos problema.
+Palavras-Chave: <em>Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Engeenering Feature; Dummy; RepeatedK-Fold; MAE, GridSearch; Tunagem de Hiperparâmetros; Insigths dos problema.</em>
