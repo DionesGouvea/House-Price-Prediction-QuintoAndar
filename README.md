@@ -22,4 +22,4 @@ Esse desafio foi construído em parceria entre a Tera e o QuintoAndar, onde o ob
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Palavras-Chave: <em>Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Engeenering Feature; Dummy; RepeatedK-Fold; MAE, GridSearch; Tunagem de Hiperparâmetros; Insigths dos problema.</em>
+Palavras-Chave: <em>Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Engeenering Feature; Dummy; RepeatedK-Fold; MAE, GridSearch; RandomForest; Tunagem de Hiperparâmetros; Insigths dos problema.</em>
